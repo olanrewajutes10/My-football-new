@@ -1,0 +1,21 @@
+.bg-img{
+    /* background-image: url(/images/front-view-man-woman-posing-together.jpg);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      min-height: 1000px; */
+}
+/* .navbar{
+background: #222c42;
+background: linear-gradient(179deg, rgba(34, 44, 66, 1) 0%, rgba(23, 22, 22, 1) 85%);
+display: flex;
+justify-content: space-between;
+gap: 50px;
+} */
+.more h1{
+  font-size: 55px;
+  margin-top: px;
+}
+.icons img{
+  width: 40px;
+}
